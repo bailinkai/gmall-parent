@@ -9,7 +9,7 @@ public class LogUploader {
         try{
             //不同的日志类型对应不同的URL
 
-            URL url  =new URL("http://hadoop102/log");
+            URL url  =new URL("http://hadoop102:8888/log");
 
             HttpURLConnection conn = (HttpURLConnection) url.openConnection();
             //设置请求方式为post
