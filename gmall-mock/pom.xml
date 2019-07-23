@@ -14,8 +14,6 @@
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
-
-
         <dependency>
             <groupId>com.blk</groupId>
             <artifactId>gmall-common</artifactId>

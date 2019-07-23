@@ -19,6 +19,10 @@
         <module>gmall-common</module>
         <module>gmall-mock</module>
         <module>gmall-logger</module>
+        <module>gmall-realtime</module>
+        <module>gmall-publisher</module>
+        <module>gmall-chart</module>
+        <module>gmall-canal</module>
     </modules>
 
 
